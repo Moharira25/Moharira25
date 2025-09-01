@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
-    Hey, I'm Mohammed Abuharira 👋
+    Hey, I'm Mohammed 👋
   </h1>
   <h3>A First-Class Software Engineering graduate passionate about building scalable, intelligent systems.</h3>
 </div>
