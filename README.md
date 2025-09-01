@@ -12,11 +12,11 @@
 
 I am a recent First Class graduate with a BSc in Software Engineering from the **University of Leicester**. I specialize in building scalable, distributed systems and leveraging data with machine learning to solve complex problems.
 
-My project work and internships have given me hands-on experience in:
-- 🧠 **Algorithms & Data Structures**: Implementing custom data structures and complex algorithms in C++ from the ground up.
-- ☁️ **Cloud & DevOps**: Designing and deploying cloud-native applications on **AWS (EKS, Lambda, S3)** using **Kubernetes**, **Docker**, and **Redis**.
-- ⚙️ **Backend Development**: Building robust REST APIs and microservices with **Java**, **Spring Boot**.
-- 👁️ **Computer Vision & ML**: Developing models for predictive analytics and real-time gesture recognition.
+- 🧠 Algorithms & Data Structures: Implementing custom data structures and complex algorithms in C++ from the ground up, with a focus on performance and manual memory management.
+- ☁️ Cloud & DevOps: Leading the end-to-end infrastructure design for a real-time, distributed application on AWS. My work involved containerizing a full-stack application with Docker, deploying and managing it on a Kubernetes (EKS) cluster for high availability, and solving complex networking challenges for stateful services using WebSockets and Redis.
+- ⚙️ Backend Development: Building robust, event-driven REST APIs and microservices with Java and the Spring Boot ecosystem.
+- 🤖 Machine Learning: Developing and implementing novel algorithms from scratch, including a Reinforcement Learning (Q-learning) agent to optimize a Genetic Algorithm for my final-year thesis.
+- 👁️ **Computer Vision**: Developing a script for real-time gesture recognition.
 
 Feel free to connect or reach out!
 
