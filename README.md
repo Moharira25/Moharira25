@@ -3,7 +3,7 @@
   <h1>
     Hey, I'm Mohammed Abuharira 👋
   </h1>
-  <h3>A Software Engineering student passionate about Cloud Computing, Machine Learning, and Backend Development.</h3>
+  <h3>A First-Class Software Engineering graduate passionate about building scalable, intelligent systems.</h3>
 </div>
 
 ---
@@ -14,7 +14,7 @@ I am a recent First Class graduate with a BSc in Software Engineering from the *
 
 My project work and internships have given me hands-on experience in:
 - 🧠 **Algorithms & Data Structures**: Implementing custom data structures and complex algorithms in C++ from the ground up.
-- ☁️ **Cloud & DevOps**: Designing cloud-native architectures with **AWS (EKS, Lambda, S3)**, **Docker**, and **Kubernetes**.
+- ☁️ **Cloud & DevOps**: Designing and deploying cloud-native applications on **AWS (EKS, Lambda, S3)** using **Kubernetes**, **Docker**, and **Redis**.
 - ⚙️ **Backend Development**: Building robust REST APIs and microservices with **Java**, **Spring Boot**.
 - 👁️ **Computer Vision & ML**: Developing models for predictive analytics and real-time gesture recognition.
 
@@ -72,7 +72,7 @@ Feel free to connect or reach out!
 |--------------|-------------|-------------------|
 | **[JumpList Data Structure](https://github.com/Moharira25/JumpList-Data-Structure)** | A C++ implementation of a "JumpList," a custom data structure for efficient O(√n) searching. It demonstrates advanced pointer manipulation and manual memory management by deliberately avoiding STL containers. | `C++`, `Data Structures`, `Algorithms` |
 | **[Stock Market Order Simulation](https://github.com/Moharira25/Stock-Market-Order-Simulation)** | A C++ simulation of a stock market's order matching engine. It processes and executes market and limit orders using a priority-based algorithm, showcasing advanced C++ and STL usage for system modeling. | `C++`, `STL` |
-| **[RL-Assisted Vehicle Routing Solver](https://github.com/Moharira25/RLGA_VRPTW)** | A hybrid algorithm combining a Genetic Algorithm with Q-learning to solve the Vehicle Routing Problem (VRPTW). The RL agent intelligently selects genetic operators to find optimal routing solutions more effectively. | `Python`, `Q-learning`, `Genetic Algorithms` |
+| **[RL-Assisted Vehicle Routing Solver](https://github.com/Moharira25/RLGA_VRPTW)** | A hybrid algorithm combining a Genetic Algorithm with Q-learning to solve the Vehicle Routing Problem (VRPTW). The RL agent learns to dynamically select genetic operators, improving the algorithm's convergence and solution quality over a standard GA. | `Python`, `Q-learning`, `Genetic Algorithms` |
 | **[Hand Gesture Mouse Control](https://github.com/Moharira25/HandMouse)** | A computer vision project that allows real-time mouse control (cursor movement, clicks, scrolling) through hand gestures. Built with Python, it leverages MediaPipe for hand landmark detection and OpenCV for video processing. | `Python`, `OpenCV`, `MediaPipe`, `PyAutoGUI` |
 | **[London Airbnb Price Prediction](https://github.com/Moharira25/Project-London)** | A data science project to predict London Airbnb prices. The analysis included data cleaning, exploratory analysis, and K-Means clustering. The final Random Forest model achieved a robust R² score of 0.79. | `Python`, `Scikit-learn`, `Pandas` |
 | **[ZSL Bird ID Application](https://github.com/Moharira25/zsl_bird_id_app)** | A full-stack web application for the Zoological Society of London (ZSL) to help users learn bird identification through real-time audio and video quizzes, using WebSockets for live updates. | `Java`, `Spring Boot`, `WebSockets`, `MySQL` |
